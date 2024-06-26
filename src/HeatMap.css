@@ -1,0 +1,24 @@
+/* src/HeatMap.css */
+#tooltip {
+    background: white;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 3px;
+    pointer-events: none;
+  }
+  
+  .cell {
+    stroke: white;
+    stroke-width: 1px;
+  }
+  
+  #title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  #description {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
